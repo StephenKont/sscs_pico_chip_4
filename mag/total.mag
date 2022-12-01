@@ -1,0 +1,29 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1667175569
+use decoupling_cell  decoupling_cell_0
+timestamp 1667074381
+transform 1 0 0 0 1 0
+box 0 0 201600 203879
+use inductor  inductor_0
+timestamp 1667173146
+transform 0 1 93052 -1 0 11198
+box 15982 -117002 252982 108998
+use mirrors  mirrors_0
+timestamp 1665681989
+transform 0 1 -34914 -1 0 120864
+box -18962 -10722 31328 31618
+use pwm_lower  pwm_lower_0
+timestamp 1667170575
+transform 1 0 -20006 0 1 2682
+box 4398 -2478 18637 19086
+use switched_cap  switched_cap_0
+timestamp 1666657109
+transform 1 0 -45159 0 1 199724
+box -6253 -57972 42538 2189
+use transformer  transformer_0
+timestamp 1667172430
+transform 1 0 -249142 0 1 856
+box -105052 -104990 199748 207010
+<< end >>

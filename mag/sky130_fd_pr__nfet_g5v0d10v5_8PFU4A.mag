@@ -1,0 +1,172 @@
+magic
+tech sky130A
+timestamp 1665559092
+<< pwell >>
+rect -164 -334 164 334
+<< mvnmos >>
+rect -50 105 50 205
+rect -50 -50 50 50
+rect -50 -205 50 -105
+<< mvndiff >>
+rect -79 199 -50 205
+rect -79 111 -73 199
+rect -56 111 -50 199
+rect -79 105 -50 111
+rect 50 199 79 205
+rect 50 111 56 199
+rect 73 111 79 199
+rect 50 105 79 111
+rect -79 44 -50 50
+rect -79 -44 -73 44
+rect -56 -44 -50 44
+rect -79 -50 -50 -44
+rect 50 44 79 50
+rect 50 -44 56 44
+rect 73 -44 79 44
+rect 50 -50 79 -44
+rect -79 -111 -50 -105
+rect -79 -199 -73 -111
+rect -56 -199 -50 -111
+rect -79 -205 -50 -199
+rect 50 -111 79 -105
+rect 50 -199 56 -111
+rect 73 -199 79 -111
+rect 50 -205 79 -199
+<< mvndiffc >>
+rect -73 111 -56 199
+rect 56 111 73 199
+rect -73 -44 -56 44
+rect 56 -44 73 44
+rect -73 -199 -56 -111
+rect 56 -199 73 -111
+<< mvpsubdiff >>
+rect -146 310 146 316
+rect -146 293 -92 310
+rect 92 293 146 310
+rect -146 287 146 293
+rect -146 262 -117 287
+rect -146 -262 -140 262
+rect -123 -262 -117 262
+rect 117 262 146 287
+rect -146 -287 -117 -262
+rect 117 -262 123 262
+rect 140 -262 146 262
+rect 117 -287 146 -262
+rect -146 -293 146 -287
+rect -146 -310 -92 -293
+rect 92 -310 146 -293
+rect -146 -316 146 -310
+<< mvpsubdiffcont >>
+rect -92 293 92 310
+rect -140 -262 -123 262
+rect 123 -262 140 262
+rect -92 -310 92 -293
+<< poly >>
+rect -50 241 50 249
+rect -50 224 -42 241
+rect 42 224 50 241
+rect -50 205 50 224
+rect -50 86 50 105
+rect -50 69 -42 86
+rect 42 69 50 86
+rect -50 50 50 69
+rect -50 -69 50 -50
+rect -50 -86 -42 -69
+rect 42 -86 50 -69
+rect -50 -105 50 -86
+rect -50 -224 50 -205
+rect -50 -241 -42 -224
+rect 42 -241 50 -224
+rect -50 -249 50 -241
+<< polycont >>
+rect -42 224 42 241
+rect -42 69 42 86
+rect -42 -86 42 -69
+rect -42 -241 42 -224
+<< locali >>
+rect -140 293 -92 310
+rect 92 293 140 310
+rect -140 262 -123 293
+rect 123 262 140 293
+rect -50 224 -42 241
+rect 42 224 50 241
+rect -73 199 -56 207
+rect -73 103 -56 111
+rect 56 199 73 207
+rect 56 103 73 111
+rect -50 69 -42 86
+rect 42 69 50 86
+rect -73 44 -56 52
+rect -73 -52 -56 -44
+rect 56 44 73 52
+rect 56 -52 73 -44
+rect -50 -86 -42 -69
+rect 42 -86 50 -69
+rect -73 -111 -56 -103
+rect -73 -207 -56 -199
+rect 56 -111 73 -103
+rect 56 -207 73 -199
+rect -50 -241 -42 -224
+rect 42 -241 50 -224
+rect -140 -293 -123 -262
+rect 123 -293 140 -262
+rect -140 -310 -92 -293
+rect 92 -310 140 -293
+<< viali >>
+rect -42 224 42 241
+rect -73 111 -56 199
+rect 56 111 73 199
+rect -42 69 42 86
+rect -73 -44 -56 44
+rect 56 -44 73 44
+rect -42 -86 42 -69
+rect -73 -199 -56 -111
+rect 56 -199 73 -111
+rect -42 -241 42 -224
+<< metal1 >>
+rect -48 241 48 244
+rect -48 224 -42 241
+rect 42 224 48 241
+rect -48 221 48 224
+rect -76 199 -53 205
+rect -76 111 -73 199
+rect -56 111 -53 199
+rect -76 105 -53 111
+rect 53 199 76 205
+rect 53 111 56 199
+rect 73 111 76 199
+rect 53 105 76 111
+rect -48 86 48 89
+rect -48 69 -42 86
+rect 42 69 48 86
+rect -48 66 48 69
+rect -76 44 -53 50
+rect -76 -44 -73 44
+rect -56 -44 -53 44
+rect -76 -50 -53 -44
+rect 53 44 76 50
+rect 53 -44 56 44
+rect 73 -44 76 44
+rect 53 -50 76 -44
+rect -48 -69 48 -66
+rect -48 -86 -42 -69
+rect 42 -86 48 -69
+rect -48 -89 48 -86
+rect -76 -111 -53 -105
+rect -76 -199 -73 -111
+rect -56 -199 -53 -111
+rect -76 -205 -53 -199
+rect 53 -111 76 -105
+rect 53 -199 56 -111
+rect 73 -199 76 -111
+rect 53 -205 76 -199
+rect -48 -224 48 -221
+rect -48 -241 -42 -224
+rect 42 -241 48 -224
+rect -48 -244 48 -241
+<< properties >>
+string FIXED_BBOX -131 -301 131 301
+string gencell sky130_fd_pr__nfet_g5v0d10v5
+string library sky130
+string parameters w 1 l 1 m 3 nf 1 diffcov 100 polycov 100 guard 1 glc 1 grc 1 gtc 1 gbc 1 tbcov 100 rlcov 100 topc 1 botc 1 poverlap 1 doverlap 1 lmin 0.50 wmin 0.42 compatible {sky130_fd_pr__nfet_01v8 sky130_fd_pr__nfet_01v8_lvt  sky130_fd_bs_flash__special_sonosfet_star  sky130_fd_pr__nfet_g5v0d10v5 sky130_fd_pr__nfet_05v0_nvt  sky130_fd_pr__nfet_03v3_nvt} full_metal 1 viasrc 100 viadrn 100 viagate 100 viagb 0 viagr 0 viagl 0 viagt 0
+<< end >>

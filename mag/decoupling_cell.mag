@@ -1,0 +1,207 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1668785275
+<< metal4 >>
+rect 1250 203479 200349 203879
+rect 1250 203079 1650 203479
+rect 4649 203079 5049 203479
+rect 7550 203099 7950 203479
+rect 10949 203099 11349 203479
+rect 13850 203099 14250 203479
+rect 17249 203099 17649 203479
+rect 20150 203099 20550 203479
+rect 23549 203099 23949 203479
+rect 26450 203099 26850 203479
+rect 29849 203099 30249 203479
+rect 32750 203099 33150 203479
+rect 36149 203099 36549 203479
+rect 39050 203099 39450 203479
+rect 42449 203099 42849 203479
+rect 45350 203099 45750 203479
+rect 48749 203099 49149 203479
+rect 51650 203099 52050 203479
+rect 55049 203099 55449 203479
+rect 57950 203099 58350 203479
+rect 61349 203099 61749 203479
+rect 64250 203099 64650 203479
+rect 67649 203099 68049 203479
+rect 70550 203099 70950 203479
+rect 73949 203099 74349 203479
+rect 76850 203099 77250 203479
+rect 80249 203099 80649 203479
+rect 83150 203099 83550 203479
+rect 86549 203099 86949 203479
+rect 89450 203099 89850 203479
+rect 92849 203099 93249 203479
+rect 95750 203099 96150 203479
+rect 99149 203099 99549 203479
+rect 102050 203099 102450 203479
+rect 105449 203099 105849 203479
+rect 108350 203099 108750 203479
+rect 111749 203099 112149 203479
+rect 114650 203099 115050 203479
+rect 118049 203099 118449 203479
+rect 120950 203099 121350 203479
+rect 124349 203099 124749 203479
+rect 127250 203099 127650 203479
+rect 130649 203099 131049 203479
+rect 133550 203099 133950 203479
+rect 136949 203099 137349 203479
+rect 139850 203099 140250 203479
+rect 143249 203099 143649 203479
+rect 146150 203099 146550 203479
+rect 149549 203099 149949 203479
+rect 152450 203099 152850 203479
+rect 155849 203099 156249 203479
+rect 158750 203099 159150 203479
+rect 162149 203099 162549 203479
+rect 165050 203099 165450 203479
+rect 168449 203099 168849 203479
+rect 171350 203099 171750 203479
+rect 174749 203099 175149 203479
+rect 177650 203099 178050 203479
+rect 181049 203099 181449 203479
+rect 183950 203099 184350 203479
+rect 187349 203099 187749 203479
+rect 190250 203099 190650 203479
+rect 193649 203099 194049 203479
+rect 196550 203099 196950 203479
+rect 199949 203099 200349 203479
+<< metal5 >>
+rect 2825 202978 198768 203398
+rect 2832 0 198775 420
+use decoupling_cell_single_column  decoupling_cell_single_column_0
+timestamp 1668785164
+transform 1 0 74 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_1
+timestamp 1668785164
+transform 1 0 6374 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_2
+timestamp 1668785164
+transform 1 0 12674 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_3
+timestamp 1668785164
+transform 1 0 18974 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_4
+timestamp 1668785164
+transform 1 0 25274 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_5
+timestamp 1668785164
+transform 1 0 31574 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_6
+timestamp 1668785164
+transform 1 0 37874 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_7
+timestamp 1668785164
+transform 1 0 44174 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_8
+timestamp 1668785164
+transform 1 0 50474 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_9
+timestamp 1668785164
+transform 1 0 56774 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_10
+timestamp 1668785164
+transform 1 0 63074 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_11
+timestamp 1668785164
+transform 1 0 69374 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_12
+timestamp 1668785164
+transform 1 0 75674 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_13
+timestamp 1668785164
+transform 1 0 81974 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_14
+timestamp 1668785164
+transform 1 0 88274 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_15
+timestamp 1668785164
+transform 1 0 94574 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_16
+timestamp 1668785164
+transform 1 0 100874 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_17
+timestamp 1668785164
+transform 1 0 107174 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_18
+timestamp 1668785164
+transform 1 0 113474 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_19
+timestamp 1668785164
+transform 1 0 119774 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_20
+timestamp 1668785164
+transform 1 0 126074 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_21
+timestamp 1668785164
+transform 1 0 132374 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_22
+timestamp 1668785164
+transform 1 0 138674 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_23
+timestamp 1668785164
+transform 1 0 144974 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_24
+timestamp 1668785164
+transform 1 0 151274 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_25
+timestamp 1668785164
+transform 1 0 157574 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_26
+timestamp 1668785164
+transform 1 0 163874 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_27
+timestamp 1668785164
+transform 1 0 170174 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_28
+timestamp 1668785164
+transform 1 0 176474 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_29
+timestamp 1668785164
+transform 1 0 182774 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_30
+timestamp 1668785164
+transform 1 0 189074 0 1 196225
+box -74 -196225 6226 7173
+use decoupling_cell_single_column  decoupling_cell_single_column_31
+timestamp 1668785164
+transform 1 0 195374 0 1 196225
+box -74 -196225 6226 7173
+<< labels >>
+rlabel metal5 3058 203393 3058 203393 1 Vout
+port 1 n
+rlabel metal4 1445 203091 1445 203091 1 Ground
+port 2 n
+<< end >>

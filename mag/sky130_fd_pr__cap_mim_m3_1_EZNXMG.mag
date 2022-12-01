@@ -1,0 +1,24 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1665944152
+<< metal3 >>
+rect -2150 -1100 2048 1100
+<< mimcap >>
+rect -2050 960 1950 1000
+rect -2050 -960 -2010 960
+rect 1910 -960 1950 960
+rect -2050 -1000 1950 -960
+<< mimcapcontact >>
+rect -2010 -960 1910 960
+<< metal4 >>
+rect -2011 960 1911 961
+rect -2011 -960 -2010 960
+rect 1910 -960 1911 960
+rect -2011 -961 1911 -960
+<< properties >>
+string FIXED_BBOX -2150 -1100 2050 1100
+string gencell sky130_fd_pr__cap_mim_m3_1
+string library sky130
+string parameters w 20 l 10 val 411.4 carea 2.00 cperi 0.19 nx 1 ny 1 dummy 0 square 0 lmin 2.00 wmin 2.00 lmax 30.0 wmax 30.0 dc 0 bconnect 1 tconnect 1 ccov 100
+<< end >>
