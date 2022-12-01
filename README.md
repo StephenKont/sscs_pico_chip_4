@@ -2,7 +2,7 @@
 
 ---
 SSCS PICO Chip 4\
-Team Greece\
+Team Greece, Aristotle University of Thessaloniki\
 Novel DC-DC boost converter
 ---
 
