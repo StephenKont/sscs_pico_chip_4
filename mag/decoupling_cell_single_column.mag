@@ -1,105 +1,105 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1668785164
+timestamp 1669945358
 << obsactive >>
-rect -74 5994 6226 7172
-rect -74 304 818 5994
-rect 5334 304 6226 5994
-rect -74 -306 6226 304
-rect -74 -5996 818 -306
-rect 5334 -5996 6226 -306
-rect -74 -6606 6226 -5996
-rect -74 -12296 818 -6606
-rect 5334 -12296 6226 -6606
-rect -74 -12906 6226 -12296
-rect -74 -18596 818 -12906
-rect 5334 -18596 6226 -12906
-rect -74 -19206 6226 -18596
-rect -74 -24896 818 -19206
-rect 5334 -24896 6226 -19206
-rect -74 -25506 6226 -24896
-rect -74 -31196 818 -25506
-rect 5334 -31196 6226 -25506
-rect -74 -31806 6226 -31196
-rect -74 -37496 818 -31806
-rect 5334 -37496 6226 -31806
-rect -74 -38106 6226 -37496
-rect -74 -43796 818 -38106
-rect 5334 -43796 6226 -38106
-rect -74 -44406 6226 -43796
-rect -74 -50096 818 -44406
-rect 5334 -50096 6226 -44406
-rect -74 -50706 6226 -50096
-rect -74 -56396 818 -50706
-rect 5334 -56396 6226 -50706
-rect -74 -57006 6226 -56396
-rect -74 -62696 818 -57006
-rect 5334 -62696 6226 -57006
-rect -74 -63306 6226 -62696
-rect -74 -68996 818 -63306
-rect 5334 -68996 6226 -63306
-rect -74 -69606 6226 -68996
-rect -74 -75296 818 -69606
-rect 5334 -75296 6226 -69606
-rect -74 -75906 6226 -75296
-rect -74 -81596 818 -75906
-rect 5334 -81596 6226 -75906
-rect -74 -82206 6226 -81596
-rect -74 -87896 818 -82206
-rect 5334 -87896 6226 -82206
-rect -74 -88506 6226 -87896
-rect -74 -94196 818 -88506
-rect 5334 -94196 6226 -88506
-rect -74 -94806 6226 -94196
-rect -74 -100496 818 -94806
-rect 5334 -100496 6226 -94806
-rect -74 -101106 6226 -100496
-rect -74 -106796 818 -101106
-rect 5334 -106796 6226 -101106
-rect -74 -107406 6226 -106796
-rect -74 -113096 818 -107406
-rect 5334 -113096 6226 -107406
-rect -74 -113706 6226 -113096
-rect -74 -119396 818 -113706
-rect 5334 -119396 6226 -113706
-rect -74 -120006 6226 -119396
-rect -74 -125696 818 -120006
-rect 5334 -125696 6226 -120006
-rect -74 -126306 6226 -125696
-rect -74 -131996 818 -126306
-rect 5334 -131996 6226 -126306
-rect -74 -132606 6226 -131996
-rect -74 -138296 818 -132606
-rect 5334 -138296 6226 -132606
-rect -74 -138906 6226 -138296
-rect -74 -144596 818 -138906
-rect 5334 -144596 6226 -138906
-rect -74 -145206 6226 -144596
-rect -74 -150896 818 -145206
-rect 5334 -150896 6226 -145206
-rect -74 -151506 6226 -150896
-rect -74 -157196 818 -151506
-rect 5334 -157196 6226 -151506
-rect -74 -157806 6226 -157196
-rect -74 -163496 818 -157806
-rect 5334 -163496 6226 -157806
-rect -74 -164106 6226 -163496
-rect -74 -169796 818 -164106
-rect 5334 -169796 6226 -164106
-rect -74 -170406 6226 -169796
-rect -74 -176096 818 -170406
-rect 5334 -176096 6226 -170406
-rect -74 -176706 6226 -176096
-rect -74 -182396 818 -176706
-rect 5334 -182396 6226 -176706
-rect -74 -183006 6226 -182396
-rect -74 -188696 818 -183006
-rect 5334 -188696 6226 -183006
-rect -74 -189306 6226 -188696
-rect -74 -194996 818 -189306
-rect 5334 -194996 6226 -189306
-rect -74 -196225 6226 -194996
+rect -74 5494 6226 7172
+rect -74 806 818 5494
+rect 5334 806 6226 5494
+rect -74 -806 6226 806
+rect -74 -5494 818 -806
+rect 5334 -5494 6226 -806
+rect -74 -7106 6226 -5494
+rect -74 -11794 818 -7106
+rect 5334 -11794 6226 -7106
+rect -74 -13406 6226 -11794
+rect -74 -18094 818 -13406
+rect 5334 -18094 6226 -13406
+rect -74 -19706 6226 -18094
+rect -74 -24394 818 -19706
+rect 5334 -24394 6226 -19706
+rect -74 -26006 6226 -24394
+rect -74 -30694 818 -26006
+rect 5334 -30694 6226 -26006
+rect -74 -32306 6226 -30694
+rect -74 -36994 818 -32306
+rect 5334 -36994 6226 -32306
+rect -74 -38606 6226 -36994
+rect -74 -43294 818 -38606
+rect 5334 -43294 6226 -38606
+rect -74 -44906 6226 -43294
+rect -74 -49594 818 -44906
+rect 5334 -49594 6226 -44906
+rect -74 -51206 6226 -49594
+rect -74 -55894 818 -51206
+rect 5334 -55894 6226 -51206
+rect -74 -57506 6226 -55894
+rect -74 -62194 818 -57506
+rect 5334 -62194 6226 -57506
+rect -74 -63806 6226 -62194
+rect -74 -68494 818 -63806
+rect 5334 -68494 6226 -63806
+rect -74 -70106 6226 -68494
+rect -74 -74794 818 -70106
+rect 5334 -74794 6226 -70106
+rect -74 -76406 6226 -74794
+rect -74 -81094 818 -76406
+rect 5334 -81094 6226 -76406
+rect -74 -82706 6226 -81094
+rect -74 -87394 818 -82706
+rect 5334 -87394 6226 -82706
+rect -74 -89006 6226 -87394
+rect -74 -93694 818 -89006
+rect 5334 -93694 6226 -89006
+rect -74 -95306 6226 -93694
+rect -74 -99994 818 -95306
+rect 5334 -99994 6226 -95306
+rect -74 -101606 6226 -99994
+rect -74 -106294 818 -101606
+rect 5334 -106294 6226 -101606
+rect -74 -107906 6226 -106294
+rect -74 -112594 818 -107906
+rect 5334 -112594 6226 -107906
+rect -74 -114206 6226 -112594
+rect -74 -118894 818 -114206
+rect 5334 -118894 6226 -114206
+rect -74 -120506 6226 -118894
+rect -74 -125194 818 -120506
+rect 5334 -125194 6226 -120506
+rect -74 -126806 6226 -125194
+rect -74 -131494 818 -126806
+rect 5334 -131494 6226 -126806
+rect -74 -133106 6226 -131494
+rect -74 -137794 818 -133106
+rect 5334 -137794 6226 -133106
+rect -74 -139406 6226 -137794
+rect -74 -144094 818 -139406
+rect 5334 -144094 6226 -139406
+rect -74 -145706 6226 -144094
+rect -74 -150394 818 -145706
+rect 5334 -150394 6226 -145706
+rect -74 -152006 6226 -150394
+rect -74 -156694 818 -152006
+rect 5334 -156694 6226 -152006
+rect -74 -158306 6226 -156694
+rect -74 -162994 818 -158306
+rect 5334 -162994 6226 -158306
+rect -74 -164606 6226 -162994
+rect -74 -169294 818 -164606
+rect 5334 -169294 6226 -164606
+rect -74 -170906 6226 -169294
+rect -74 -175594 818 -170906
+rect 5334 -175594 6226 -170906
+rect -74 -177206 6226 -175594
+rect -74 -181894 818 -177206
+rect 5334 -181894 6226 -177206
+rect -74 -183506 6226 -181894
+rect -74 -188194 818 -183506
+rect 5334 -188194 6226 -183506
+rect -74 -189806 6226 -188194
+rect -74 -194494 818 -189806
+rect 5334 -194494 6226 -189806
+rect -74 -196225 6226 -194494
 << metal1 >>
 rect 1176 6854 1576 6874
 rect 1176 6594 1196 6854
@@ -239,132 +239,132 @@ use sky130_fd_pr__cap_mim_m3_2_U59KTN  sky130_fd_pr__cap_mim_m3_2_U59KTN_0
 timestamp 1667067748
 transform 1 0 3327 0 1 -94526
 box -3401 -100800 2899 100800
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_0
-timestamp 1667069478
-transform 0 1 3076 -1 0 3149
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_1
-timestamp 1667069478
-transform 0 1 3076 -1 0 -3151
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_2
-timestamp 1667069478
-transform 0 1 3076 -1 0 -9451
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_3
-timestamp 1667069478
-transform 0 1 3076 -1 0 -15751
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_4
-timestamp 1667069478
-transform 0 1 3076 -1 0 -22051
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_5
-timestamp 1667069478
-transform 0 1 3076 -1 0 -28351
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_6
-timestamp 1667069478
-transform 0 1 3076 -1 0 -34651
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_7
-timestamp 1667069478
-transform 0 1 3076 -1 0 -40951
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_8
-timestamp 1667069478
-transform 0 1 3076 -1 0 -47251
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_9
-timestamp 1667069478
-transform 0 1 3076 -1 0 -53551
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_10
-timestamp 1667069478
-transform 0 1 3076 -1 0 -59851
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_11
-timestamp 1667069478
-transform 0 1 3076 -1 0 -66151
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_12
-timestamp 1667069478
-transform 0 1 3076 -1 0 -72451
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_13
-timestamp 1667069478
-transform 0 1 3076 -1 0 -78751
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_14
-timestamp 1667069478
-transform 0 1 3076 -1 0 -85051
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_15
-timestamp 1667069478
-transform 0 1 3076 -1 0 -91351
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_16
-timestamp 1667069478
-transform 0 1 3076 -1 0 -97651
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_17
-timestamp 1667069478
-transform 0 1 3076 -1 0 -103951
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_18
-timestamp 1667069478
-transform 0 1 3076 -1 0 -110251
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_19
-timestamp 1667069478
-transform 0 1 3076 -1 0 -116551
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_20
-timestamp 1667069478
-transform 0 1 3076 -1 0 -122851
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_21
-timestamp 1667069478
-transform 0 1 3076 -1 0 -129151
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_22
-timestamp 1667069478
-transform 0 1 3076 -1 0 -135451
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_23
-timestamp 1667069478
-transform 0 1 3076 -1 0 -141751
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_24
-timestamp 1667069478
-transform 0 1 3076 -1 0 -148051
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_25
-timestamp 1667069478
-transform 0 1 3076 -1 0 -154351
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_26
-timestamp 1667069478
-transform 0 1 3076 -1 0 -160651
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_27
-timestamp 1667069478
-transform 0 1 3076 -1 0 -166951
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_28
-timestamp 1667069478
-transform 0 1 3076 -1 0 -173251
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_29
-timestamp 1667069478
-transform 0 1 3076 -1 0 -179551
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_30
-timestamp 1667069478
-transform 0 1 3076 -1 0 -185851
-box -2844 -2258 2844 2258
-use sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ  sky130_fd_pr__nfet_g5v0d10v5_RTWZFQ_31
-timestamp 1667069478
-transform 0 1 3076 -1 0 -192151
-box -2844 -2258 2844 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_0
+timestamp 1669944869
+transform 0 1 3076 -1 0 3150
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_1
+timestamp 1669944869
+transform 0 1 3076 -1 0 -3150
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_2
+timestamp 1669944869
+transform 0 1 3076 -1 0 -9450
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_3
+timestamp 1669944869
+transform 0 1 3076 -1 0 -15750
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_4
+timestamp 1669944869
+transform 0 1 3076 -1 0 -22050
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_5
+timestamp 1669944869
+transform 0 1 3076 -1 0 -28350
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_6
+timestamp 1669944869
+transform 0 1 3076 -1 0 -34650
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_7
+timestamp 1669944869
+transform 0 1 3076 -1 0 -40950
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_8
+timestamp 1669944869
+transform 0 1 3076 -1 0 -47250
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_9
+timestamp 1669944869
+transform 0 1 3076 -1 0 -53550
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_10
+timestamp 1669944869
+transform 0 1 3076 -1 0 -59850
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_11
+timestamp 1669944869
+transform 0 1 3076 -1 0 -66150
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_12
+timestamp 1669944869
+transform 0 1 3076 -1 0 -72450
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_13
+timestamp 1669944869
+transform 0 1 3076 -1 0 -78750
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_14
+timestamp 1669944869
+transform 0 1 3076 -1 0 -85050
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_15
+timestamp 1669944869
+transform 0 1 3076 -1 0 -91350
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_16
+timestamp 1669944869
+transform 0 1 3076 -1 0 -97650
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_17
+timestamp 1669944869
+transform 0 1 3076 -1 0 -103950
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_18
+timestamp 1669944869
+transform 0 1 3076 -1 0 -110250
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_19
+timestamp 1669944869
+transform 0 1 3076 -1 0 -116550
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_20
+timestamp 1669944869
+transform 0 1 3076 -1 0 -122850
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_21
+timestamp 1669944869
+transform 0 1 3076 -1 0 -129150
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_22
+timestamp 1669944869
+transform 0 1 3076 -1 0 -135450
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_23
+timestamp 1669944869
+transform 0 1 3076 -1 0 -141750
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_24
+timestamp 1669944869
+transform 0 1 3076 -1 0 -148050
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_25
+timestamp 1669944869
+transform 0 1 3076 -1 0 -154350
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_26
+timestamp 1669944869
+transform 0 1 3076 -1 0 -160650
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_27
+timestamp 1669944869
+transform 0 1 3076 -1 0 -166950
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_28
+timestamp 1669944869
+transform 0 1 3076 -1 0 -173250
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_29
+timestamp 1669944869
+transform 0 1 3076 -1 0 -179550
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_30
+timestamp 1669944869
+transform 0 1 3076 -1 0 -185850
+box -2344 -2258 2344 2258
+use sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ  sky130_fd_pr__nfet_g5v0d10v5_9KQQSQ_31
+timestamp 1669944869
+transform 0 1 3076 -1 0 -192150
+box -2344 -2258 2344 2258
 << end >>
